@@ -1,0 +1,11 @@
+{
+  "name": "PxCook_RectNative转换器",
+  "displayName": "PxCook_RectNative转换器",
+  "description": "转pxcook的属性到fgui",
+  "version": "1.1",
+  "author": {
+    "name": "yc"
+  },
+  "icon": "icon.png",
+  "main": "main.js"
+}
